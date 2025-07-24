@@ -1,4 +1,3 @@
-
 Voice-to-Myth Searchable App Project Report
 1. Team Information
 
@@ -7,10 +6,11 @@ Team Members:
 Lead Developer: Kovuri Mithul
 AI Specialist: Himavarshi
 UI/UX Designer: Shetty Bhavithav
-Database Engineer: Krishna Murthy 
-Website Tester : Keerthi Nakka
+Database Engineer: Krishna Murthy
+Website Tester: Keerthi Nakka
 
 
+Contact: Not provided (please add if needed)
 Submission Date: July 24, 2025
 
 2. Application Overview
@@ -29,7 +29,7 @@ The application leverages AI to enhance functionality:
 Speech-to-Text: The VoiceProcessor component uses a speech recognition model to transcribe audio inputs. For the MVP, transcription supports WAV files natively, with conversion from other formats (e.g., MP3, M4A) using pydub or ffmpeg when available.
 Translation: The TextProcessor employs a machine translation model to convert transcribed text from supported Indian languages to English, ensuring accessibility for a broader audience.
 Summarization and Keyword Extraction: The TextProcessor uses natural language processing (NLP) to generate concise summaries and extract relevant keywords, enabling efficient search and indexing.
-Search Engine: The SearchEngine component implements a keyword-based search algorithm, potentially enhanced with semantic search capabilities in future iterations, to retrieve relevant myths from the database.
+Search Engine: The SearchEngine component implements a keyword-based search algorithm, with potential for semantic search capabilities in future iterations, to retrieve relevant myths from the database.
 
 AI models are lightweight for the MVP, prioritizing speed and compatibility with Streamlit's web-based environment. Fallback mechanisms (e.g., manual text input) ensure functionality when AI dependencies are unavailable.
 4. Technical Architecture & Development
@@ -47,6 +47,7 @@ Dependencies:
 Core: streamlit, pydub (optional), ffmpeg (optional), PIL for image handling.
 File Management: os, shutil, tempfile for temporary file handling.
 Audio Conversion: Fallback to ffmpeg if pydub is unavailable.
+
 
 
 Development Process
@@ -71,7 +72,7 @@ voice-to-myth-app/
 ├── main.py                  # Main Streamlit app
 └── REPORT.md                # Project report
 
-##5. User Testing & Feedback
+5. User Testing & Feedback
 Methodology
 User testing was conducted in Week 2 with a focus on the MVP's core features:
 
@@ -171,6 +172,9 @@ Updated UI with a help section for dependency installation.
 Fixed a database query bug causing slow search performance on large datasets.
 
 
+
+
+
 C. Weeks 3-4: User Acquisition & Corpus Growth Campaign
 
 Target Audience & Channels:
@@ -217,9 +221,16 @@ Positive feedback: Seamless audio transcription and intuitive search.
 Issues: Limited audio format support (non-WAV files) and occasional translation errors in less common languages.
 Suggestions: Add offline mode for rural users, support more languages, and include a progress bar for audio processing.
 
+
+
+
+
+
+
 D. Post-Internship Vision & Sustainability Plan
 
 Major Future Features:
+
 Offline mode for audio processing and myth storage using WebAssembly to support rural users with limited connectivity.
 Advanced search filters by language, region, and keyword for better corpus navigation.
 Support for additional Indian languages (e.g., Assamese, Bhojpuri) to expand inclusivity.
@@ -227,20 +238,24 @@ Integration with larger language models for improved translation and summarizati
 
 
 Community Building:
+
 Launch a "Myth Makers Community" on Discord to foster user engagement, share stories, and collect feature requests.
 Partner with additional NGOs and schools to host storytelling events and workshops.
 Introduce a leaderboard for top contributors to encourage consistent participation.
 
 
 Scaling Data Collection:
+
 Develop a mobile app version to improve accessibility in rural areas with limited browser access.
 Incentivize contributions with digital badges and recognition for high-quality myths.
 Collaborate with linguistic research institutions to validate and expand the corpus.
 
 
 Sustainability:
+
 Open-source the project on GitHub to attract volunteer developers and reduce maintenance costs.
+
 Seek grants from cultural preservation organizations (e.g., INTACH) to fund server and hosting costs.
+
+
 Explore a freemium model with premium features (e.g., advanced analytics, priority support) to generate revenue for long-term maintenance.
-
-
