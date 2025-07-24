@@ -1,0 +1,11 @@
+streamlit
+openai-whisper
+transformers
+torch
+pandas
+Pillow
+streamlit-audiorecorder
+sentence-transformers
+keybert
+scikit-learn
+setuptools
