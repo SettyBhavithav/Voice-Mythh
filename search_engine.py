@@ -222,3 +222,5 @@ if __name__ == "__main__":
 # updated Streamlit page config title and favicon icon
 
 # fixed rare indexing error when search query contains special characters
+
+# Built Streamlit web UI layout with main header and sidebar controls
