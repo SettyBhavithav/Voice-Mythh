@@ -170,3 +170,5 @@
 # added audio waveform visualizer widget using matplotlib
 
 # updated license file and author metadata in project root
+
+# Added folklore dataset with Indian cultural myth stories in JSON format
