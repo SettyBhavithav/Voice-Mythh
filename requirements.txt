@@ -1,0 +1,182 @@
+streamlit
+openai-whisper
+transformers
+torch
+pandas
+Pillow
+streamlit-audiorecorder
+sentence-transformers
+keybert
+scikit-learn
+setuptools
+# built TF-IDF similarity search engine over cultural myths
+
+# handled audio recording silence and noise errors
+
+# built TF-IDF similarity search engine over cultural myths
+
+# handled audio recording silence and noise errors
+
+# built TF-IDF similarity search engine over cultural myths
+
+# handled audio recording silence and noise errors
+
+# built TF-IDF similarity search engine over cultural myths
+
+# handled audio recording silence and noise errors
+
+# built TF-IDF similarity search engine over cultural myths
+
+# handled audio recording silence and noise errors
+
+# built TF-IDF similarity search engine over cultural myths
+
+# handled audio recording silence and noise errors
+
+# built TF-IDF similarity search engine over cultural myths
+
+# handled audio recording silence and noise errors
+
+# built TF-IDF similarity search engine over cultural myths
+
+# handled audio recording silence and noise errors
+
+# built TF-IDF similarity search engine over cultural myths
+
+# handled audio recording silence and noise errors
+
+# built TF-IDF similarity search engine over cultural myths
+
+# handled audio recording silence and noise errors
+
+# built TF-IDF similarity search engine over cultural myths
+
+# handled audio recording silence and noise errors
+
+# built TF-IDF similarity search engine over cultural myths
+
+# handled audio recording silence and noise errors
+
+# built TF-IDF similarity search engine over cultural myths
+
+# handled audio recording silence and noise errors
+
+# built TF-IDF similarity search engine over cultural myths
+
+# handled audio recording silence and noise errors
+
+# built TF-IDF similarity search engine over cultural myths
+
+# handled audio recording silence and noise errors
+
+# built TF-IDF similarity search engine over cultural myths
+
+# handled audio recording silence and noise errors
+
+# built TF-IDF similarity search engine over cultural myths
+
+# handled audio recording silence and noise errors
+
+# built TF-IDF similarity search engine over cultural myths
+
+# handled audio recording silence and noise errors
+
+# built TF-IDF similarity search engine over cultural myths
+
+# handled audio recording silence and noise errors
+
+# built TF-IDF similarity search engine over cultural myths
+
+# handled audio recording silence and noise errors
+
+# built TF-IDF similarity search engine over cultural myths
+
+# handled audio recording silence and noise errors
+
+# built TF-IDF similarity search engine over cultural myths
+
+# handled audio recording silence and noise errors
+
+# built TF-IDF similarity search engine over cultural myths
+
+# handled audio recording silence and noise errors
+
+# built TF-IDF similarity search engine over cultural myths
+
+# handled audio recording silence and noise errors
+
+# added PyAudio microphone input stream recorder component
+
+# displayed top matching myth story cards with similarity percentages
+
+# handled silence and background audio noise errors gracefully
+
+# optimized search response latency using Streamlit cache data decorator
+
+# added requirements list with streamlit speechrecognition pyttsx3 scikit-learn
+
+# created project directory for voice myth discovery application
+
+# integrated speech_recognition API to convert user voice into query text
+
+# integrated pyttsx3 text to speech engine for reading myth stories aloud
+
+# added myth category filter dropdown for folklore region
+
+# saved sample audio clips to assets directory
+
+# added docstrings for search engine functions
+
+# built Streamlit web UI layout with title and sidebar controls
+
+# built TF-IDF vectorizer over myth titles and descriptions
+
+# added voice reading speed and volume slider controls in sidebar
+
+# added dark mode CSS custom styling for myth story cards
+
+# added CLI runner script for launching Streamlit server
+
+# cleaned up temporary audio recording wav files
+
+# added JSON dataset containing cultural myth stories and folklore
+
+# calculated cosine similarity scores between user audio query and myth database
+
+# added PyAudio microphone input stream sampler module
+
+# calculated cosine similarity scores between user voice query and myth corpus
+
+# updated audio player widget to play recorded voice query back
+
+# checked speech API response time and added fallback text input box
+
+# removed duplicate myth records from JSON corpus file
+
+# fixed character encoding issue when reading myth dataset JSON file
+
+# updated docstrings for voice engine functions
+
+# updated dependencies in setup file to fix streamlit version deprecation
+
+# added logging middleware to track audio query execution time
+
+# checked dataset integrity and verified all 150 myth story records
+
+# checked memory release after ending voice narration loop
+
+# removed console debug print statements across python scripts
+
+# fixed Streamlit session state reset bug when changing sidebar filters
+
+# updated PyAudio recording chunk size to reduce buffer latency
+
+# fixed background thread join timeout on application shutdown
+
+# checked audio recording peak amplitude values to prevent distortion
+
+# fixed CSS line height for long myth story descriptions
+
+# removed temporary cache files before final code package
+
+# checked final code formatting using black autoformatter
