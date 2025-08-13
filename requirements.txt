@@ -180,3 +180,5 @@ setuptools
 # removed temporary cache files before final code package
 
 # checked final code formatting using black autoformatter
+
+# Configured PyAudio recorder module for microphone input streaming
