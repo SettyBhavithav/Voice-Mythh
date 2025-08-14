@@ -172,3 +172,5 @@
 # updated license file and author metadata in project root
 
 # Added folklore dataset with Indian cultural myth stories in JSON format
+
+# Verified audio stream sample rate and bit depth settings
