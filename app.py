@@ -708,3 +708,5 @@ with st.sidebar:
 # verified full end-to-end voice myth search and narration application
 
 # Initial project folder setup for voice myth discovery application
+
+# Integrated Speech Recognition API for converting voice query to text
