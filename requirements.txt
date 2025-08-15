@@ -182,3 +182,5 @@ setuptools
 # checked final code formatting using black autoformatter
 
 # Configured PyAudio recorder module for microphone input streaming
+
+# Calculated cosine similarity scores between voice query and myth corpus
