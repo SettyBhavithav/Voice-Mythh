@@ -224,3 +224,5 @@ if __name__ == "__main__":
 # fixed rare indexing error when search query contains special characters
 
 # Built Streamlit web UI layout with main header and sidebar controls
+
+# Created TF-IDF vectorizer over myth titles and story descriptions
