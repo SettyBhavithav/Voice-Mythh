@@ -714,3 +714,5 @@ with st.sidebar:
 # Rendered top matching myth story cards with similarity score tags
 
 # Configured dynamic asset paths for audio recordings
+
+# Applied dark mode glassmorphism CSS styling for story cards
