@@ -228,3 +228,5 @@ if __name__ == "__main__":
 # Created TF-IDF vectorizer over myth titles and story descriptions
 
 # Added voice reading speed and volume slider controls in sidebar
+
+# Added regional folklore filter dropdown in Streamlit sidebar
