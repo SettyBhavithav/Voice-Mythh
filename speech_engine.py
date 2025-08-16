@@ -176,3 +176,5 @@
 # Verified audio stream sample rate and bit depth settings
 
 # Integrated pyttsx3 text-to-speech narration engine for reading stories aloud
+
+# Adjusted silence detection threshold in microphone listener module
