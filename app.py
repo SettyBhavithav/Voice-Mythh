@@ -712,3 +712,5 @@ with st.sidebar:
 # Integrated Speech Recognition API for converting voice query to text
 
 # Rendered top matching myth story cards with similarity score tags
+
+# Configured dynamic asset paths for audio recordings
