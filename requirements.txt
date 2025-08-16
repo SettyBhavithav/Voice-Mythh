@@ -186,3 +186,5 @@ setuptools
 # Calculated cosine similarity scores between voice query and myth corpus
 
 # Updated audio player widget to play recorded query back to user
+
+# Implemented speech recognition fallback mechanism to manual text input
