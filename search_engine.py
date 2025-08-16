@@ -226,3 +226,5 @@ if __name__ == "__main__":
 # Built Streamlit web UI layout with main header and sidebar controls
 
 # Created TF-IDF vectorizer over myth titles and story descriptions
+
+# Added voice reading speed and volume slider controls in sidebar
