@@ -232,3 +232,5 @@ if __name__ == "__main__":
 # Added regional folklore filter dropdown in Streamlit sidebar
 
 # Integrated Streamlit cache data decorator for faster search performance
+
+# Updated requirements.txt with Streamlit, SpeechRecognition, and PyTTSx3
