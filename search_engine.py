@@ -230,3 +230,5 @@ if __name__ == "__main__":
 # Added voice reading speed and volume slider controls in sidebar
 
 # Added regional folklore filter dropdown in Streamlit sidebar
+
+# Integrated Streamlit cache data decorator for faster search performance
