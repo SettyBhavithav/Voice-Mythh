@@ -188,3 +188,5 @@ setuptools
 # Updated audio player widget to play recorded query back to user
 
 # Implemented speech recognition fallback mechanism to manual text input
+
+# Removed duplicate myth records from JSON corpus file
