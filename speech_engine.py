@@ -178,3 +178,5 @@
 # Integrated pyttsx3 text-to-speech narration engine for reading stories aloud
 
 # Adjusted silence detection threshold in microphone listener module
+
+# Added session state logic to bookmark favorite myth stories
