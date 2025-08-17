@@ -716,3 +716,5 @@ with st.sidebar:
 # Configured dynamic asset paths for audio recordings
 
 # Applied dark mode glassmorphism CSS styling for story cards
+
+# Monitored memory consumption during real time audio recording stream
