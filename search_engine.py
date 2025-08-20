@@ -234,3 +234,5 @@ if __name__ == "__main__":
 # Integrated Streamlit cache data decorator for faster search performance
 
 # Updated requirements.txt with Streamlit, SpeechRecognition, and PyTTSx3
+
+# Cleaned up temporary WAV files after processing audio query
