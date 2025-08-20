@@ -182,3 +182,5 @@
 # Added session state logic to bookmark favorite myth stories
 
 # Added custom error message modal for disconnected microphone device
+
+# Reviewed test coverage for speech processing engine
