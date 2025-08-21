@@ -184,3 +184,5 @@
 # Added custom error message modal for disconnected microphone device
 
 # Reviewed test coverage for speech processing engine
+
+# Calibrated microphone noise gate settings during quiet background test
