@@ -194,3 +194,5 @@ setuptools
 # Fixed character encoding issue when reading myth dataset JSON file
 
 # Updated docstrings for voice engine functions
+
+# Updated dependencies in setup file for Streamlit compatibility
