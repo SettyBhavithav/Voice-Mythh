@@ -236,3 +236,5 @@ if __name__ == "__main__":
 # Updated requirements.txt with Streamlit, SpeechRecognition, and PyTTSx3
 
 # Cleaned up temporary WAV files after processing audio query
+
+# Added export button to download myth story transcript as text file
