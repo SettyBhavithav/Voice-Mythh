@@ -238,3 +238,5 @@ if __name__ == "__main__":
 # Cleaned up temporary WAV files after processing audio query
 
 # Added export button to download myth story transcript as text file
+
+# Tested cross browser compatibility for Streamlit web interface
