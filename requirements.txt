@@ -196,3 +196,5 @@ setuptools
 # Updated docstrings for voice engine functions
 
 # Updated dependencies in setup file for Streamlit compatibility
+
+# Added logging middleware for tracking audio query execution time
