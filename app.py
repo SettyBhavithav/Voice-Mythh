@@ -724,3 +724,5 @@ with st.sidebar:
 # Saved sample audio clips in assets directory for offline testing
 
 # Removed unused import statements from app frontend script
+
+# Adjusted search ranking algorithm to weight myth titles higher
