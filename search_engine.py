@@ -240,3 +240,5 @@ if __name__ == "__main__":
 # Added export button to download myth story transcript as text file
 
 # Tested cross browser compatibility for Streamlit web interface
+
+# Fixed audio queue thread lock issue during consecutive narration requests
