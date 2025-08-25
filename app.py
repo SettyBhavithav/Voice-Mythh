@@ -726,3 +726,5 @@ with st.sidebar:
 # Removed unused import statements from app frontend script
 
 # Adjusted search ranking algorithm to weight myth titles higher
+
+# Added quick filter tags for popular Indian mythology topics
