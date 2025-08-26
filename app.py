@@ -728,3 +728,5 @@ with st.sidebar:
 # Adjusted search ranking algorithm to weight myth titles higher
 
 # Added quick filter tags for popular Indian mythology topics
+
+# Tweaked audio buffer size to reduce recording latency
