@@ -242,3 +242,5 @@ if __name__ == "__main__":
 # Tested cross browser compatibility for Streamlit web interface
 
 # Fixed audio queue thread lock issue during consecutive narration requests
+
+# Removed draft CSS files from static styles folder
