@@ -192,3 +192,5 @@
 # Removed legacy speech recognition wrapper module
 
 # Tuned voice pitch control parameters in pyttsx3 engine
+
+# Created step-by-step user guide modal component in Streamlit UI
