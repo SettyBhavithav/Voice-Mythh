@@ -244,3 +244,5 @@ if __name__ == "__main__":
 # Fixed audio queue thread lock issue during consecutive narration requests
 
 # Removed draft CSS files from static styles folder
+
+# Aligned dark mode theme color palette across components
