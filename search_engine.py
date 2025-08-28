@@ -246,3 +246,5 @@ if __name__ == "__main__":
 # Removed draft CSS files from static styles folder
 
 # Aligned dark mode theme color palette across components
+
+# Updated README installation guide for installing PortAudio system dependencies
