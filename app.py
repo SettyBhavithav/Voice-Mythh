@@ -730,3 +730,5 @@ with st.sidebar:
 # Added quick filter tags for popular Indian mythology topics
 
 # Tweaked audio buffer size to reduce recording latency
+
+# Tested speech recognition accuracy on accented English phrases
