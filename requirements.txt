@@ -204,3 +204,5 @@ setuptools
 # Verified memory release after ending voice narration loop
 
 # Cleaned up console print statements across Python scripts
+
+# Fixed Streamlit session state reset bug when changing sidebar filters
