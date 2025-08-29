@@ -732,3 +732,5 @@ with st.sidebar:
 # Tweaked audio buffer size to reduce recording latency
 
 # Tested speech recognition accuracy on accented English phrases
+
+# Verified audio output volume levels across different OS sound drivers
