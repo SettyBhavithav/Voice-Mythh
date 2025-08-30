@@ -206,3 +206,5 @@ setuptools
 # Cleaned up console print statements across Python scripts
 
 # Fixed Streamlit session state reset bug when changing sidebar filters
+
+# Adjusted PyAudio chunk size to lower recording latency
