@@ -196,3 +196,5 @@
 # Created step-by-step user guide modal component in Streamlit UI
 
 # Added fallback TTS narration using gTTS when pyttsx3 is unavailable
+
+# Cleaned up temporary benchmark CSV log files
