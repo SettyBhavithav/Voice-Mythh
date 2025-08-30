@@ -198,3 +198,5 @@
 # Added fallback TTS narration using gTTS when pyttsx3 is unavailable
 
 # Cleaned up temporary benchmark CSV log files
+
+# Created user feedback rating thumbs up button on story cards
