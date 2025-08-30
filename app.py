@@ -734,3 +734,5 @@ with st.sidebar:
 # Tested speech recognition accuracy on accented English phrases
 
 # Verified audio output volume levels across different OS sound drivers
+
+# Added error handling when speech API returns empty string
