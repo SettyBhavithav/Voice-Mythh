@@ -248,3 +248,5 @@ if __name__ == "__main__":
 # Aligned dark mode theme color palette across components
 
 # Updated README installation guide for installing PortAudio system dependencies
+
+# Created unit tests for audio queue concurrency handling
