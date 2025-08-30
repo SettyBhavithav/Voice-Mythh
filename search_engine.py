@@ -250,3 +250,5 @@ if __name__ == "__main__":
 # Updated README installation guide for installing PortAudio system dependencies
 
 # Created unit tests for audio queue concurrency handling
+
+# Removed deprecated Streamlit components from frontend
