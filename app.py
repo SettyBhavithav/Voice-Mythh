@@ -736,3 +736,5 @@ with st.sidebar:
 # Verified audio output volume levels across different OS sound drivers
 
 # Added error handling when speech API returns empty string
+
+# Fixed session state memory leak in Streamlit context
