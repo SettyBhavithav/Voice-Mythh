@@ -210,3 +210,5 @@ setuptools
 # Adjusted PyAudio chunk size to lower recording latency
 
 # Fixed background thread shutdown on application exit
+
+# Monitored audio recording peak amplitude values to prevent clipping
