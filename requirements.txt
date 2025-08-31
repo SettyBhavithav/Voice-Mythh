@@ -208,3 +208,5 @@ setuptools
 # Fixed Streamlit session state reset bug when changing sidebar filters
 
 # Adjusted PyAudio chunk size to lower recording latency
+
+# Fixed background thread shutdown on application exit
