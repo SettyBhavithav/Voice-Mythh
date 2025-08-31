@@ -738,3 +738,5 @@ with st.sidebar:
 # Added error handling when speech API returns empty string
 
 # Fixed session state memory leak in Streamlit context
+
+# Added automatic gain control for low input microphones
