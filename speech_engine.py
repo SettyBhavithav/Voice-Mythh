@@ -202,3 +202,5 @@
 # Created user feedback rating thumbs up button on story cards
 
 # Configured TF-IDF bigram ngram range parameters
+
+# Configured search results pagination displaying 5 myths per page
