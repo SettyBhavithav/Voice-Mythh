@@ -212,3 +212,5 @@ setuptools
 # Fixed background thread shutdown on application exit
 
 # Monitored audio recording peak amplitude values to prevent clipping
+
+# Applied CSS line height styling for long myth descriptions
