@@ -254,3 +254,5 @@ if __name__ == "__main__":
 # Removed deprecated Streamlit components from frontend
 
 # Cleaned up test audio files from repository root folder
+
+# Refactored helper functions in search engine module
