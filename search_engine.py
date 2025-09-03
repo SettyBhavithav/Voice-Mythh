@@ -256,3 +256,5 @@ if __name__ == "__main__":
 # Cleaned up test audio files from repository root folder
 
 # Refactored helper functions in search engine module
+
+# Configured Streamlit page title and browser favicon icon
