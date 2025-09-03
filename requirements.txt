@@ -214,3 +214,5 @@ setuptools
 # Monitored audio recording peak amplitude values to prevent clipping
 
 # Applied CSS line height styling for long myth descriptions
+
+# Cleaned up temporary cache before final code packaging
