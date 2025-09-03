@@ -740,3 +740,5 @@ with st.sidebar:
 # Fixed session state memory leak in Streamlit context
 
 # Added automatic gain control for low input microphones
+
+# Tested speech recognition performance with background room noise
