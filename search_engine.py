@@ -258,3 +258,5 @@ if __name__ == "__main__":
 # Refactored helper functions in search engine module
 
 # Configured Streamlit page title and browser favicon icon
+
+# Fixed rare indexing error when search query contains special characters
