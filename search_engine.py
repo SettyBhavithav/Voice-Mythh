@@ -260,3 +260,5 @@ if __name__ == "__main__":
 # Configured Streamlit page title and browser favicon icon
 
 # Fixed rare indexing error when search query contains special characters
+
+# Added folklore dataset with Indian cultural myth stories in JSON format
