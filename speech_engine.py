@@ -208,3 +208,5 @@
 # Created audio visualizer component using Matplotlib waveform
 
 # Configured author metadata and license file in project root
+
+# Initial project folder setup for voice myth discovery application
