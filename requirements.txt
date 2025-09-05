@@ -218,3 +218,5 @@ setuptools
 # Cleaned up temporary cache before final code packaging
 
 # Verified Python code formatting using Black autoformatter
+
+# Built Streamlit web UI layout with main header and sidebar controls
