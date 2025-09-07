@@ -210,3 +210,5 @@
 # Configured author metadata and license file in project root
 
 # Initial project folder setup for voice myth discovery application
+
+# Integrated Speech Recognition API for converting voice query to text
