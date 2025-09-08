@@ -220,3 +220,5 @@ setuptools
 # Verified Python code formatting using Black autoformatter
 
 # Built Streamlit web UI layout with main header and sidebar controls
+
+# Created TF-IDF vectorizer over myth titles and story descriptions
