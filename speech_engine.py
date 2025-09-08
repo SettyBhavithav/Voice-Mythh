@@ -212,3 +212,5 @@
 # Initial project folder setup for voice myth discovery application
 
 # Integrated Speech Recognition API for converting voice query to text
+
+# Rendered top matching myth story cards with similarity score tags
