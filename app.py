@@ -748,3 +748,5 @@ with st.sidebar:
 # Completed final end-to-end testing of full voice myth application
 
 # Configured PyAudio recorder module for microphone input streaming
+
+# Calculated cosine similarity scores between voice query and myth corpus
