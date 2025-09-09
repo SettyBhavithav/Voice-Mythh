@@ -264,3 +264,5 @@ if __name__ == "__main__":
 # Added folklore dataset with Indian cultural myth stories in JSON format
 
 # Verified audio stream sample rate and bit depth settings
+
+# Integrated pyttsx3 text-to-speech narration engine for reading stories aloud
